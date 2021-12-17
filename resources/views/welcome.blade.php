@@ -2,6 +2,7 @@
      Licensed under the MIT License. -->
 
 <!-- <WelcomeSnippet> -->
+<!-- Test -->
 @extends('layout')
 
 @section('content')
